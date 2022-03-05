@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Janith Sandamal</h1>
 <h3 align="center">A passionate Full Stack Web developer from Sri Lanka</h3>
-<img align="right" alt=Coding" width="400" src="https://dribbble.com/shots/3252385/attachments/3252385-Job-opening?mode=media">
+<img align="right" alt=Coding" width="400" src="https://drive.google.com/file/d/1N5qItR-u50uYx-3JaK5CcHMClZagfet1/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janith-sandamal&label=Profile%20views&color=0e75b6&style=flat" alt="janith-sandamal" /> </p>
 
