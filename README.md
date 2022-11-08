@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Janith Sandamal</h1>
 <h3 align="center">A passionate Full Stack  developer from Sri Lanka</h3>
 <img align="right" alt=Coding" width="400" src="https://github.com/Janith-Sandamal/Janith-Sandamal/blob/main/job.gif">
+<a href="https://app.daily.dev/BigBoss"><img src="https://api.daily.dev/devcards/4d13ee4120c14f66957a7ba62b527a24.png?r=iwq" width="400" alt="Janith Sandamal's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janith-sandamal&label=Profile%20views&color=0e75b6&style=flat" alt="janith-sandamal" /> </p>
 
