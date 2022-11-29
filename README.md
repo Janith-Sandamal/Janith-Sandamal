@@ -41,6 +41,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janith-sandamal&show_icons=true&theme=radical&locale=en&layout=compact" alt="janith-sandamal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janith-sandamal&show_icons=true&theme=tokyonight&locale=en" alt="janith-sandamal" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janith-sandamal&" alt="janith-sandamal" /></p>
