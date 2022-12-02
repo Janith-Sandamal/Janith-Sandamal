@@ -1,5 +1,5 @@
-<!-- - 👋 Hi, I’m @Janith-Sandamal
-- 👀 I’m interested in ...  Cyber__Security | Full Stack Web Developing | Networking
+<!-- - 👋 Hi guys
+- 👀 I’m interested in ...  Cyber__Security | Full Stack Web Developing | Networking | Mechatronics
 - 🌱 I’m currently learning ...  Python, Ethical Hacking , JavaScript , PHP , Flutter , Dart , Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  Linkedin - Janith Sandamal  -->
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt=Coding" width="400" src="https://github.com/Janith-Sandamal/Janith-Sandamal/blob/main/job.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janith-sandamal&label=Profile%20views&color=0e75b6&style=flat" alt="janith-sandamal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janith-sandamal&label=Profile%20views&color=0e75b6&style=flat" alt="janith-sandamal" /> </p>
 
 
 
