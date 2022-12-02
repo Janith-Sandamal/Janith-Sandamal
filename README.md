@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 <fieldset>
   <legend>Here are some ideas to get you started✅</legend>
   
-- 👀 I’m interested in ...  Cyber__Security | Full Stack Web Developing | Networking | Mechatronics
+- 👀 I’m interested in ...  Cyber Security | Digital Forensics | Web Development | Networking | Mechatronics
                                                                                                                                                      
-- 🔭 I’m currently working on **ACHER**
+- 🔭 I’m currently working on **Project ACHER**
 
 - 🌱 I’m currently learning **Flutter,React,Ethical Hacking,CCNA**
 
-- 💬 Ask me about **Laravel,PHP,Python**
+- 💬 Ask me about **Pentset,Laravel,PHP,Python**
 
 - ⚡ Fun fact **Programmer: A machine that turns coffee into code.**
   </fieldset>
