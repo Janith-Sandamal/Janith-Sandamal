@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janith-sandamal&label=Profile%20views&color=0e75b6&style=flat" alt="janith-sandamal" /> </p>
 
-
+<fieldset>
+  <legend>Here are some ideas to get you started✅</legend>
 - 👀 I’m interested in ...  Cyber__Security | Full Stack Web Developing | Networking | Mechatronics
                                                                                                                                                      
 - 🔭 I’m currently working on **ACHER**
@@ -24,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **Laravel,PHP,Python**
 
 - ⚡ Fun fact **Programmer: A machine that turns coffee into code.**
+  </fieldset>
                                                                                                                                                    
 ## Skills and Experience
 🔴 <strong>Programming Languages</strong>
