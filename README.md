@@ -11,13 +11,16 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi Guys👋</h1>
 <h3 align="center">A passionate Full Stack Web developer from Sri Lanka</h3>
-<img align="center" alt=Coding" width="200" src="https://github.com/Janith-Sandamal/Janith-Sandamal/blob/main/job.gif">
+<div style="align:center">
+  <img align="" alt=Coding" width="200" src="https://github.com/Janith-Sandamal/Janith-Sandamal/blob/main/job.gif">
+</div>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janith-sandamal&label=Profile%20views&color=0e75b6&style=flat" alt="janith-sandamal" /> </p>
 
 
-
+- 👀 I’m interested in ...  Cyber__Security | Full Stack Web Developing | Networking | Mechatronics
+                                                                                                                                                     
 - 🔭 I’m currently working on **ACHER**
 
 - 🌱 I’m currently learning **Flutter,React,Ethical Hacking,CCNA**
