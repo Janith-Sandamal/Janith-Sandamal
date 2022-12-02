@@ -1,5 +1,5 @@
 <!-- - 👋 Hi guys
-- 👀 I’m interested in ...  Cyber__Security | Full Stack Web Developing | Networking | Mechatronics
+- 👀 I’m interested in ...  Cyber Security | Digital Forensics | Web Development | Networking | Mechatronics
 - 🌱 I’m currently learning ...  Python, Ethical Hacking , JavaScript , PHP , Flutter , Dart , Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  Linkedin - Janith Sandamal  -->
