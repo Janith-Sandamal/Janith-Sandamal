@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 🔴 <strong>Databases</strong>
 
+![](https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
