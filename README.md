@@ -76,12 +76,12 @@ You can click the Preview link to take a look at your changes.
 <a href="/htttps://blogger.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="htttps://blogger.com" height="30" width="40" /></a>
 </p>
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janith-sandamal&show_icons=true&theme=radical&locale=en&layout=compact" alt="janith-sandamal" /></p>
 
 <div>
 
-</div>
+</div> -->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janith-sandamal&" alt="janith-sandamal" /></p>
