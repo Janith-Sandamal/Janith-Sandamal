@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 ## Skills and Experience
 🔴 <strong>Programming Languages</strong>
 
+![](https://img.shields.io/badge/node.js-68B984?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,12 +40,14 @@ You can click the Preview link to take a look at your changes.
 
 🔴 <strong>Frameworks</strong>
 
+![](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=Laravel&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 🔴 <strong>Libraries</strong>
 
+![](https://img.shields.io/badge/Vue.js-36AE7C?style=for-the-badge&logo=vue.js&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
