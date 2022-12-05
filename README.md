@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Flutter,React,Ethical Hacking,CCNA**
 
-- 💬 Ask me about **Pentset,Laravel,PHP,Python**
+- 💬 Ask me about **Pentration Testing,Laravel,PHP,Python**
 
 - ⚡ Fun fact **Programmer: A machine that turns coffee into code.**
   </fieldset>
