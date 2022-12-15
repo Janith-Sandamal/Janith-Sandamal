@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/uikit-3776AB?style=for-the-badge&logo=uikit&logoColor=white)
 
 🔴 <strong>Libraries</strong>
 
