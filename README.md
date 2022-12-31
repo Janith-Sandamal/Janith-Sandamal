@@ -71,6 +71,17 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Kubernetes-5C2D91?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 
+🔴<strong> Operating Systems</strong>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-294172?style=for-the-badge&logo=debian&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
                                                                                                                                                    
                                                                                                                                                                                                                                                                                               
                                                                                                                                                    
