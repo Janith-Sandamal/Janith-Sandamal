@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
                                                                                                                                                      
 - 🔭 I’m currently working on **Project ACHER**
 
-- 🌱 I’m currently learning **Flutter,React,Ethical Hacking,CCNA**
+- 🌱 I’m currently learning **Flutter,Node.js,Ethical Hacking,CCNA**
 
 - 💬 Ask me about **Pentration Testing,Laravel,PHP,Python**
 
