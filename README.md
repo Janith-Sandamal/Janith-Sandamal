@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi There👋</h1>
 <h3 align="center">I'm passionate Pentester and full-stack Web Developer </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=janith-sandamal&label=Profile%20views&color=0e75b6&style=flat" alt="janith-sandamal" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=janith-sandamal&label=Profile%20views&color=0e75b6&style=flat" alt="janith-sandamal" /> </p>
 
 <fieldset>
   <legend>Here are some ideas to get you started✅</legend>
@@ -23,10 +23,12 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Flutter,Node.js,Ethical Hacking,CCNA**
 
-- 💬 Ask me about **Pentration Testing,Laravel,PHP,Python**
-
+- 💬 Ask me about **Pentration Testing,Laravel,PHP,Python** -->
+<br><br>
+<!--   <fieldset>
+  <legend>Here are some ideas to get you started✅</legend>
 - ⚡ Fun fact **Programmer: A machine that turns coffee into code..**
-  </fieldset> 
+  </fieldset>  -->
                                                                                                                                                    
 ## Skills and Experience
 🔴 <strong>Programming Languages</strong>
