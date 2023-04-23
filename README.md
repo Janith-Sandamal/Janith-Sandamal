@@ -83,6 +83,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Mac](https://img.shields.io/badge/Mac-07405E?style=for-the-badge&logo=ios&logoColor=white)
 
 
   ## 💰 You can help me by Donating
