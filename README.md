@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 🔴 <strong>Frameworks</strong>
 
 ![](https://img.shields.io/badge/node.js-68B984?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=Laravel&logoColor=white)
+![](	https://img.shields.io/badge/NEXT.js-00000F?style=for-the-badge&logo=next&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/uikit-3776AB?style=for-the-badge&logo=uikit&logoColor=white)
 
