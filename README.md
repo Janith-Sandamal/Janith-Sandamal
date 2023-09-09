@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+<!--
 🔴 <strong>Frameworks</strong>
 
 ![](https://img.shields.io/badge/node.js-68B984?style=for-the-badge&logo=node.js&logoColor=white)
@@ -55,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Vue.js-36AE7C?style=for-the-badge&logo=vue.js&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
+-->
 🔴 <strong>Databases</strong>
 
 ![](https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=white)
