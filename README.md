@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Flutter,Node.js,Ethical Hacking,CCNA**
 
 - 💬 Ask me about **Pentration Testing,Laravel,PHP,Python** -->
-<br>
+
 <!--   <fieldset>
   <legend>Here are some ideas to get you started✅</legend>
 - ⚡ Fun fact **Programmer: A machine that turns coffee into code..**
