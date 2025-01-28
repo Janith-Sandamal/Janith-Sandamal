@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi There👋</h1>
-<h3 align="center">I'm passionate Cybersecurity Researcher and Full Stack  Software Engineer </h3>
+<h3 align="center">I'm passionate Cybersecurity Researcher and Software Engineer </h3>
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=janith-sandamal&label=Profile%20views&color=0e75b6&style=flat" alt="janith-sandamal" /> </p>
 
