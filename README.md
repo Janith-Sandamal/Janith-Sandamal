@@ -102,6 +102,3 @@ You can click the Preview link to take a look at your changes.
 <div>
 
 </div> -->
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janith-sandamal&" alt="janith-sandamal" /></p>
