@@ -32,6 +32,12 @@ You can click the Preview link to take a look at your changes.
  ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 -->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/093a9300-ead3-4fc4-aafa-e6231e3f5f82" alt="Workspace Image" style="width:80%; max-width:600px;"/>
+</p>
+
+
                                                                                                                                                    
 ## Skills and Experience
 🔴 <strong>Programming Languages</strong>
