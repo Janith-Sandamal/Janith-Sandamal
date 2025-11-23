@@ -36,14 +36,12 @@ I exist in the cycle of **building, breaking, and rebuilding**.
 <div align="center">
 
 **☁️ Cloud Security & Solutions**<br>
-<br>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <br><br>
 
 **🔴 Offensive Operations**<br>
-<br>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -52,7 +50,6 @@ I exist in the cycle of **building, breaking, and rebuilding**.
 <br><br>
 
 **🔵 Defensive Engineering & DFIR**<br>
-<br>
 <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/CrowdStrike-FC0000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
@@ -61,7 +58,6 @@ I exist in the cycle of **building, breaking, and rebuilding**.
 <br><br>
 
 **🧪 Custom Tooling & Automation**<br>
-<br>
 <img src="https://img.shields.io/badge/Custom-C2_Frameworks-44CC11?style=for-the-badge&logo=server&logoColor=white" />
 <img src="https://img.shields.io/badge/Custom-Malware_Sandboxes-FF5555?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Custom-Phishing_Sims-FFB000?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -70,7 +66,6 @@ I exist in the cycle of **building, breaking, and rebuilding**.
 <br><br>
 
 **🟢 Programming & DevOps**<br>
-<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -105,11 +100,12 @@ I actively contribute to the academic and open-source community. You can find my
 
 <div align="center">
 
-<a href="https://linkedin.com/in/janith-sandamal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="janith-sandamal" /></a>
+<a href="https://www.linkedin.com/in/janith-sandamal-25112218b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="janith-sandamal" /></a>
 
 <br><br>
 
 **Enjoying my work?**<br>
+<br>
 <a href="https://www.buymeacoffee.com/janithsandamal" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
 <a href="https://www.paypal.me/pgejanithsandamal" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 
