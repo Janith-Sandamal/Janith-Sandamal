@@ -1,110 +1,116 @@
-<!-- - 👋 Hi guys
-- 👀 I’m interested in ...  Cyber Security | Digital Forensics | Web Development | Networking | Mechatronics
-- 🌱 I’m currently learning ...  Python, Ethical Hacking , JavaScript , PHP , Flutter , Dart , Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  Linkedin - Janith Sandamal  -->
-
-<!---
-Janith-Sandamal/Janith-Sandamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h1 align="center">Hi There👋</h1>
-<h3 align="center">I break things to build them better | Information Security Researcher & Backend Software Engineer passionate about detection, defense, and innovation ✌️</h3>
-
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=janith-sandamal&label=Profile%20views&color=0e75b6&style=flat" alt="janith-sandamal" /> </p>
-
-<fieldset>
-  <legend>Here are some ideas to get you started✅</legend>
-  
-- 👀 I’m interested in ...  Cyber Security | Digital Forensics | Web Development | Networking | Mechatronics
-                                                                                                                                                     
-- 🔭 I’m currently working on **Project ACHER**
-
-- 🌱 I’m currently learning **Flutter,Node.js,Ethical Hacking,CCNA**
-
-- 💬 Ask me about **Pentration Testing,Laravel,PHP,Python** -->
-
-<!--   <fieldset>
-  <legend>Here are some ideas to get you started✅</legend>
-- ⚡ Fun fact **Programmer: A machine that turns coffee into code..**
-  </fieldset> 
- ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
- ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
--->
+<h1 align="center">Hi there, I'm Janith Sandamal 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/093a9300-ead3-4fc4-aafa-e6231e3f5f82" alt="Workspace Image" style="width:50%; max-width:600px;"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Security+Engineer+%26+Researcher;Breaker+of+Boundaries;Builder+of+Defenses;DFIR+%7C+Red+Teaming+%7C+Engineering" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/093a9300-ead3-4fc4-aafa-e6231e3f5f82" alt="Workspace Image" style="width:80%; border-radius: 10px;"/>
+</p>
 
-                                                                                                                                                   
-## Skills and Experience
-🔴 <strong>Programming Languages</strong>
+---
 
+### 🛡️ Mission Control
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+> **"Secure systems aren't just created they’re challenged, reimagined, and continuously hardened."**
 
-<!--
-🔴 <strong>Frameworks</strong>
+By day, I am an **Enterprise Security Engineer**, securing IT infrastructure using XDR, SIEM, and other Security solutions.
+By night, I operate in my **DFIR and Red Team lab**, analyzing payloads, crafting exploits, and reverse-engineering malware.
 
-![](https://img.shields.io/badge/node.js-68B984?style=for-the-badge&logo=node.js&logoColor=white)
-![](	https://img.shields.io/badge/NEXT.js-00000F?style=for-the-badge&logo=next&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/uikit-3776AB?style=for-the-badge&logo=uikit&logoColor=white)
+I exist in the cycle of **building, breaking, and rebuilding**.
 
-🔴 <strong>Libraries</strong>
+---
 
-![](https://img.shields.io/badge/Vue.js-36AE7C?style=for-the-badge&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
--->
-🔴 <strong>Databases</strong>
+### 🔭 Current Focus & Research
+* **Threat Detection:** Engineering custom SIEM/XDR correlation rules and Detection Logics.
+* **Adversary Emulation:** Exploring how adversarial ML can break deep learning classifiers.
+* **Development:** Building secure backend pipelines with **Python, Golang, FastAPI, & Flask**.
+* **Infrastructure:** Hardening Azure & M365 environments.
 
-![](https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-🔴 <strong>Tools and Services</strong>
+### ⚔️ Technical Arsenal
 
-![](https://img.shields.io/badge/supabase-092E10?style=for-the-badge&logo=supabase&logoColor=white)
-![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/arduino-1CD6CE?style=for-the-badge&logo=arduino&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/postman-F05032?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
 
-
-
-🔴<strong> Operating Systems</strong>
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Debian](https://img.shields.io/badge/debian-294172?style=for-the-badge&logo=debian&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**☁️ Cloud Security & Solutions**<br>
 <br>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Mac](https://img.shields.io/badge/Mac-07405E?style=for-the-badge&logo=ios&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<br><br>
 
+**🔴 Offensive Operations**<br>
+<br>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Hydra-7d0101?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<br><br>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/janithsandamal) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/pgejanithsandamal) 
+**🔵 Defensive Engineering & DFIR**<br>
+<br>
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/CrowdStrike-FC0000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+<img src="https://img.shields.io/badge/Mimecast-DF0070?style=for-the-badge&logo=mimecast&logoColor=white" />
+<img src="https://img.shields.io/badge/Autopsy-E6522C?style=for-the-badge&logo=linux&logoColor=white" />
+<br><br>
 
-                                                                                                                                                   
-                                                                                                                                                                                                                                                                                              
-                                                                                                                                                   
-                                                                                                                                                
+**🧪 Custom Tooling & Automation**<br>
+<br>
+<img src="https://img.shields.io/badge/Custom-C2_Frameworks-44CC11?style=for-the-badge&logo=server&logoColor=white" />
+<img src="https://img.shields.io/badge/Custom-Malware_Sandboxes-FF5555?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Custom-Phishing_Sims-FFB000?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Custom-XDR_Stress_Tests-7952B3?style=for-the-badge&logo=azurefunctions&logoColor=white" />
+<img src="https://img.shields.io/badge/Custom-Forensic_Scripts-00ADD8?style=for-the-badge&logo=powershell&logoColor=white" />
+<br><br>
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janith-sandamal&show_icons=true&theme=radical&locale=en&layout=compact" alt="janith-sandamal" /></p>
+**🟢 Programming & DevOps**<br>
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-<div>
+</div>
 
-</div> -->
+---
+
+### 📝 Research & Publications
+I actively contribute to the academic and open-source community. You can find my technical papers and research below:
+
+<div align="center">
+
+<a href="https://scholar.google.com/citations?user=7GcnYa0AAAAJ&hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+</a>
+<a href="https://www.researchgate.net/profile/Janith-Sandamal" target="_blank">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+</a>
+<a href="https://medium.com/@janithsandamal" target="_blank">
+  <img src="https://img.shields.io/badge/Medium_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
+</div>
+
+---
+
+### 📫 Connect & Support
+
+<div align="center">
+
+<a href="https://linkedin.com/in/janith-sandamal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="janith-sandamal" /></a>
+
+<br><br>
+
+**Enjoying my work?**<br>
+<a href="https://www.buymeacoffee.com/janithsandamal" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+<a href="https://www.paypal.me/pgejanithsandamal" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+
+</div>
