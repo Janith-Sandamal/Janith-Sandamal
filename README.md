@@ -16,7 +16,7 @@
 
 > **"Secure systems aren't just created they’re challenged, reimagined, and continuously hardened."**
 
-By day, I am an **Enterprise Security Engineer**, securing IT infrastructure using XDR, SIEM, and other Security solutions.
+By day, I am an **Enterprise Security Architect**, securing IT infrastructure using XDR, SIEM, and other Security solutions.
 By night, I operate in my **DFIR and Red Team lab**, analyzing payloads, crafting exploits, and reverse-engineering malware.
 
 I exist in the cycle of **building, breaking, and rebuilding**.
