@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Security+Engineer+%26+Researcher;Breaker+of+Boundaries;Builder+of+Defenses;DFIR+%7C+Red+Teaming+%7C+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Security+Architect+%26+Researcher;Breaker+of+Boundaries;Builder+of+Defenses;DFIR+%7C+Red+Teaming+%7C+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
