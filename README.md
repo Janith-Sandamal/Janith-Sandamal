@@ -30,7 +30,7 @@ By day, I lead security operations and infrastructure hardening. By night, I div
 
 ---
 
-### ⚔️ Core Expertise (The Arsenal)
+### ⚔️ Core Expertise
 
 <div align="left">
 
