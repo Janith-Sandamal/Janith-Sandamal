@@ -34,13 +34,13 @@ By day, I lead security operations and infrastructure hardening. By night, I div
 
 <div align="left">
 
-**🌐 Security Architecture & Cloud** *Hybrid Infrastructure Hardening • Azure/M365 Security • AWS & GCP Governance*
+**🌐 Security Architecture & Cloud** *Systems Design, Hybrid Infrastructure Hardening, Azure/M365 Security, AWS & GCP Governance*
 
-**🔴 Offensive Research** *Red Teaming • Adversary Emulation (APT Simulation) • Exploit Development • CTF Enthusiast*
+**🔴 Offensive Research** *Red Teaming, Adversary Emulation (APT Simulation), Exploit Development, CTF Engineering*
 
-**🔵 Defensive Engineering & DFIR** *Detection Engineering (SIEM/XDR) • Malware Analysis • Memory Forensics • Virtual Patching*
+**🔵 Defensive Engineering & DFIR** *Detection Engineering (SIEM/XDR), Malware Analysis, Memory Forensics, Vulnerability Patching*
 
-**🤖 AI & Automation** *Security LLM Agents • Python & Go Tooling • Adversarial AI Defense • Dockerized Lab Environments*
+**🤖 AI & Automation** *Security LLM Agents, Python & Go Tooling, Adversarial AI Defense*
 
 </div>
 
