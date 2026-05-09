@@ -12,7 +12,7 @@
 
 ---
 
-### 🛡️ Mission Control
+### 🛡️
 
 > **"Security is not a product, but a process of continuous reimagination."**
 
